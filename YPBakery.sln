@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YPBakery.Common", "YPBakery.Common\YPBakery.Common.csproj", "{E0690437-011F-4D1B-9EBD-31E38EBA619B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YPBakery.Data", "YPBakery.Data\YPBakery.Data.csproj", "{46183293-E712-4ACE-B854-0114DC31CA64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YPBakery.Service", "YPBakery.Service\YPBakery.Service.csproj", "{89EDECF5-9E32-47EA-BA8A-7BF7E95418E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YPBakery.Model", "YPBakery.Model\YPBakery.Model.csproj", "{C0581C0A-89BF-4567-B7B5-F6399B281C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YPBakery.UnitTest", "YPBakery.UnitTest\YPBakery.UnitTest.csproj", "{540A64CC-C288-4A49-81D7-F27529771F32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YPBakery.Web", "YPBakery.Web\YPBakery.Web.csproj", "{5A4F3E4E-F0EA-428E-998E-D0710637E360}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0690437-011F-4D1B-9EBD-31E38EBA619B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0690437-011F-4D1B-9EBD-31E38EBA619B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0690437-011F-4D1B-9EBD-31E38EBA619B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0690437-011F-4D1B-9EBD-31E38EBA619B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46183293-E712-4ACE-B854-0114DC31CA64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46183293-E712-4ACE-B854-0114DC31CA64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46183293-E712-4ACE-B854-0114DC31CA64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46183293-E712-4ACE-B854-0114DC31CA64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89EDECF5-9E32-47EA-BA8A-7BF7E95418E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89EDECF5-9E32-47EA-BA8A-7BF7E95418E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89EDECF5-9E32-47EA-BA8A-7BF7E95418E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89EDECF5-9E32-47EA-BA8A-7BF7E95418E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0581C0A-89BF-4567-B7B5-F6399B281C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0581C0A-89BF-4567-B7B5-F6399B281C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0581C0A-89BF-4567-B7B5-F6399B281C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0581C0A-89BF-4567-B7B5-F6399B281C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{540A64CC-C288-4A49-81D7-F27529771F32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{540A64CC-C288-4A49-81D7-F27529771F32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{540A64CC-C288-4A49-81D7-F27529771F32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{540A64CC-C288-4A49-81D7-F27529771F32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4F3E4E-F0EA-428E-998E-D0710637E360}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4F3E4E-F0EA-428E-998E-D0710637E360}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4F3E4E-F0EA-428E-998E-D0710637E360}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4F3E4E-F0EA-428E-998E-D0710637E360}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCC64716-1F23-45E8-8784-BD9AC3F53590}
+	EndGlobalSection
+EndGlobal
